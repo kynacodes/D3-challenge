@@ -1,4 +1,4 @@
-# health-risk-data-anlysis-with-js.d3
+# health-risk-data-analysis-with-js.d3
 
 Usage:
 -----------------
